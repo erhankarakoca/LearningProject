@@ -1,8 +1,7 @@
-import lib
+import tcp_server
 
 
 def main():
-    # lib.hello()
     pass
 
 
